@@ -1,5 +1,5 @@
 # avazu_late_submission
-Kaggle competition on CTR prediciton
+Kaggle competition on CTR prediction
 
 Competition details available here https://www.kaggle.com/c/avazu-ctr-prediction/
 
